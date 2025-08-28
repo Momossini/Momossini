@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Momossini!
 
-<!--
-**Momossini/Momossini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub repository!  
+Here, you'll find my projects, experiments, and contributions related to software development, IoT, and AI.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 💻 **Full-Stack Developer** passionate about building scalable applications and solving real-world problems.  
+- 🤖 Interested in **IoT**, **AI/ML**, and **data-driven solutions**.  
+- 📚 Currently learning **database design**, **cloud hosting**, and **system optimization**.  
+- 🎯 Goal: To create impactful projects that make technology more accessible and efficient.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Flutter  
+- **Backend:** Node.js (Koa.js), Django, Fast API
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools & Others:** Docker, Nginx, Git, Swagger/OpenAPI  
+- **Languages:** JavaScript, Python, Dart  
+
+---
+
+## 📌 Featured Projects  
+- **NguyaEco** 🌱: Energy consumption optimization & management system for households.  
+- **Ndaku na ngaï** 🏠: Rental management platform for tenants and landlords.  
+- **Nganda Na Ngai** 🍻: Stock management application for bars & beverage depots.  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momossini&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Momossini&layout=compact&theme=radical)  
+
+---
+
+## 📫 Let's Connect  
+- **Email:** momomassamba@gmail.com  
+- **LinkedIn:** [Your LinkedIn Link](https://www.linkedin.com/in/m-marc-aurel-massamba-dilueki/)  
+- **Portfolio:** [Your Portfolio Link](#)  
+
+---
+
+⭐️ *Feel free to explore my repositories and give a star if you like my work!*  
