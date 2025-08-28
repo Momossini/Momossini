@@ -37,7 +37,7 @@ Here, you'll find my projects, experiments, and contributions related to softwar
 
 ## 📫 Let's Connect  
 - **Email:** momomassamba@gmail.com  
-- **LinkedIn:** [Your LinkedIn Link](https://www.linkedin.com/in/m-marc-aurel-massamba-dilueki/)  
+- **LinkedIn:** [My LinkedIn Link](https://www.linkedin.com/in/m-marc-aurel-massamba-dilueki/)  
 - **Portfolio:** [Your Portfolio Link](#)  
 
 ---
