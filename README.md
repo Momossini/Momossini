@@ -15,23 +15,15 @@ Here, you'll find my projects, experiments, and contributions related to softwar
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js, Flutter  
-- **Backend:** Node.js (Koa.js), Django, Fast API
+- **Backend:** Node.js (Koa.js), Django, Fast API, Symfony
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools & Others:** Docker, Nginx, Git, Swagger/OpenAPI  
-- **Languages:** JavaScript, Python, Dart  
+- **Tools & Others:** Docker, Nginx, Git, Swagger/OpenAPI, Figma, Flutter Flow  
+- **Languages:** JavaScript, Python, Dart, PHP
 
 ---
 
 ## 📌 Featured Projects  
-- **NguyaEco** 🌱: Energy consumption optimization & management system for households.  
-- **Ndaku na ngaï** 🏠: Rental management platform for tenants and landlords.  
-- **Nganda Na Ngai** 🍻: Stock management application for bars & beverage depots.  
-
----
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momossini&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Momossini&layout=compact&theme=radical)  
+- **NguyaEco** 🌱: Energy consumption optimization & management system for households.
 
 ---
 
