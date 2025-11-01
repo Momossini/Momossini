@@ -15,23 +15,7 @@ Here, you'll find my projects, experiments, and contributions related to softwar
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js, Flutter  
-- **Backend:** Node.js (Koa.js), Django, Fast API, Symfony
+- **Backend:** Node.js (Koa.js), Django, Fast API
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools & Others:** Docker, Nginx, Git, Swagger/OpenAPI, Figma, Flutter Flow  
-- **Languages:** JavaScript, Python, Dart, PHP
-
----
-
-## 📌 Featured Projects  
-- **NguyaEco** 🌱: Energy consumption optimization & management system for households.
-
----
-
-## 📫 Let's Connect  
-- **Email:** momomassamba@gmail.com  
-- **LinkedIn:** [My LinkedIn Link](https://www.linkedin.com/in/m-marc-aurel-massamba-dilueki/)  
-- **Portfolio:** [Your Portfolio Link](#)  
-
----
-
-⭐️ *Feel free to explore my repositories and give a star if you like my work!*  
+- **Tools & Others:** Docker, Nginx, Git, Swagger/OpenAPI, Figma
+- **Languages:** JavaScript, Python, Dart, SQL, C
